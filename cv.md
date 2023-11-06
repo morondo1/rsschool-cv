@@ -34,8 +34,8 @@ function isLeapYear(year) {
 }
 ```
 #### Experience: ####
-https://rolling-scopes-school.github.io/morondo1-JSFEPRESCHOOL2022Q4/momentum/ - final project
-https://rolling-scopes-school.github.io/morondo1-JSFEPRESCHOOL2022Q4/plants/#about - interim project
+* https://rolling-scopes-school.github.io/morondo1-JSFEPRESCHOOL2022Q4/momentum/ - final project
+* https://rolling-scopes-school.github.io/morondo1-JSFEPRESCHOOL2022Q4/plants/#about - interim project
 
 #### Education: ####
 ##### course: JSFEPRESCHOOL2022Q4 #####
