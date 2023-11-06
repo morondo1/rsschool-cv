@@ -3,9 +3,9 @@
 ### Name: Alex Yankousk### 
 
 #### Contacts: ####
-**Telegram: @batinpred**
-**Discord: Alex Yankouski(@morondo1)**
-**Github: https://github.com/morondo1**
+* Telegram: @batinpred
+* Discord: Alex Yankouski(@morondo1)
+* Github: https://github.com/morondo1
 
 #### About Me: ####
 ##### I really like computer technology, especially front-end. I quickly learn new technologies. Putting them into practice quickly. ##### 
