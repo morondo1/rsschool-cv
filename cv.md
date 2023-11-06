@@ -1,11 +1,11 @@
 # CV
 
-### Name: Alex Yankousk### 
+### Name: Alex Yankouski
 
 #### Contacts: ####
-* Telegram: @batinpred
-* Discord: Alex Yankouski(@morondo1)
-* Github: https://github.com/morondo1
+* Telegram: (@batinpred)
+* Discord: (Alex Yankouski(@morondo1))
+* Github: (https://github.com/morondo1)
 
 #### About Me: ####
 ##### I really like computer technology, especially front-end. I quickly learn new technologies. Putting them into practice quickly. ##### 
@@ -34,8 +34,8 @@ function isLeapYear(year) {
 }
 ```
 #### Experience: ####
-**https://rolling-scopes-school.github.io/morondo1-JSFEPRESCHOOL2022Q4/momentum/**
-**https://rolling-scopes-school.github.io/morondo1-JSFEPRESCHOOL2022Q4/plants/#about**
+https://rolling-scopes-school.github.io/morondo1-JSFEPRESCHOOL2022Q4/momentum/ - final project
+https://rolling-scopes-school.github.io/morondo1-JSFEPRESCHOOL2022Q4/plants/#about - interim project
 
 #### Education: ####
 ##### course: JSFEPRESCHOOL2022Q4 #####
